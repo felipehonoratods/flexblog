@@ -1,5 +1,5 @@
 # FlexBlog
-Project based on a blog, using HTML and CSS, along with CSS Flexbox techniques.
+Project based on a patent sales blog entirely done in HTML and CSS, along with CSS Flexbox techniques.
 
 ## Technologies
 
